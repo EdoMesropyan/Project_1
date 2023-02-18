@@ -22,3 +22,7 @@ class Auto {
     var gear: String = "sasa"
     
 }
+
+class Gear: NSObject {
+    
+}
