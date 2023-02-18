@@ -17,3 +17,8 @@ class ViewController: UIViewController {
 
 }
 
+class Auto {
+    
+    var gear: String = "sasa"
+    
+}
